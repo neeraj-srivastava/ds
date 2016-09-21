@@ -1,2 +1,2 @@
 # ds
-This repository includes sample data structure, mathematical and logic problems
+This repo primarily focuses on basic/advanced data structure or mathematical problems.
